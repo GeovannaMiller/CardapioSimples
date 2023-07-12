@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+
+body {
+    background: #ccb399;
+    font-family:'Bacasime Antique', serif;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-family: 'Bacasime Antique', serif;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Bacasime Antique', serif;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.menu {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(10, 10, 10);
+    border-color: rgb(10, 10, 10);
+}
+
+.linha {
+    margin-top: 25px;
+}
+
+h1, h2 {
+    font-family: 'Bacasime Antique', serif;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.entrada, .principal, .bebida, .sobremesa {
+    text-align: left;
+    width: 73%;
+}
+
+.preco {
+    text-align: right;
+    width: 25%;
+}
+
+footer {
+    font-size: 16px;
+}
+
+address {
+    text-align: center;
+    font-size: 16px;
+}
